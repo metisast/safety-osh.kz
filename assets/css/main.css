@@ -158,7 +158,7 @@ font-style: italic;
  }
  .navbar-nav .active a.btn{
    padding: 6px 25px;
-   background: #ffcc00;
+   background: #F0801B;
    color: #fff;
  }
  .navbar-nav li a{
@@ -176,12 +176,12 @@ font-style: italic;
  }
   .navbar-nav li a:hover{
 	  background:none;
-	  color:#ffcc00;
+	  color:#F0801B;
 	  transition: all 0.5s ease;
   }
   .navbar-nav .active a{
 	  background:none;
-	  color:#ffcc00;
+	  color:#F0801B;
 	  transition: all 0.5s ease;
   }
 
@@ -241,7 +241,7 @@ font-style: italic;
   3) About Us
   ----------------------------------------*/
   .process{
-  background: #FFBB02;
+  background: #f0801b;
   background-size: cover;
   padding: 35px 0px;
   color: #2f363e;
@@ -339,13 +339,13 @@ margin: 0px 0px 17px;
   margin-top:55px;
 }
 .services-section .item .fa{
-color: #ffbb02;
+color: #f0801b;
 margin-right: 5px;
 float: left;
 margin-right: 15px;
 font-size: 25px;
 width: 50px;
-border: 2px solid #ffbb02;
+border: 2px solid #f0801b;
 padding: 10px;
 text-align: center;
 }
@@ -423,7 +423,7 @@ background: #f8f8f8;
 .why-us-section .item ul li .fa{
   font-size: 25px;
   margin-right: 15px;
-  color: #ffbb02;
+  color: #f0801b;
   padding: 10px;
   width: 48px;
   text-align: center;
@@ -629,7 +629,7 @@ margin-top: 15px;
  5) Purchase Now
  ----------------------------------------*/
 .purchase-now {
-	background: #FFBB02;
+	background: #f0801b;
 	padding: 45px 0px 40px;
 }
 .purchase-now .btn-theme{

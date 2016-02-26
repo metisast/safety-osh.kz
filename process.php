@@ -1,7 +1,7 @@
 <?php
 
 	//Set your email id
-    $to = "deepakchandra076@gmail.com";
+    $to = "metis_ast@mail.ru";
 	//end
     $name = $_REQUEST['name'];
     $email = $_REQUEST['email'];
