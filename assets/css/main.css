@@ -358,7 +358,7 @@ text-align: center;
   margin-bottom: 5px;
 }
 
-.services-section .item:nth-child(3), .services-section .item:nth-child(4), .services-section .item:nth-child(5){
+.services-section .item{
   margin-bottom: 20px;
 }
 /*
@@ -366,7 +366,7 @@ text-align: center;
 ----------------------------------------*/
 .clients-section{
   background: #f8f8f8 url("../img/client.jpg") no-repeat right;
-  padding: 70px 0px;
+  padding: 110px 0px;
 }
 .clients-section ul li{
   float: left;
@@ -628,6 +628,10 @@ margin-top: 15px;
 /*
  5) Purchase Now
  ----------------------------------------*/
+#purchase-now{
+    padding-top: 120px;
+ }
+
 .purchase-now {
 	background: #f0801b;
 	padding: 45px 0px 40px;

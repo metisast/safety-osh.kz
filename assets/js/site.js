@@ -164,10 +164,10 @@ $('#form').validate({
         },
         messages: {
             name: {
-                required: "plese enter your name",
+                required: "введите имя",
             },
             email: {
-                required: "plese enter your email"
+                required: "введите адрес электронной почты"
             },
             mobile: {
                 required: "please enter your mobile number",
