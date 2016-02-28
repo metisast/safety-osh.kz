@@ -279,7 +279,7 @@ font-style: italic;
  3)  Us
  ----------------------------------------*/
  .about-section{
-   background: #fff url("../img/abt-2.jpg") no-repeat left bottom;
+   background: #fff;
  }
 .about-list .item:last-child img{
   margin-top: -20px;
@@ -514,7 +514,7 @@ border: 2px solid #F8F8F8;
 4) testimonial Section
 ----------------------------------------*/
 .testimonial-section{
-  background: #f0f0f0 url("../img/testimonial-bg.jpg") no-repeat;
+  background: #f0f0f0 url("../img/image6.jpg") no-repeat;
   background-size: cover;
 }
 .testimonial-section .page-header::before, .testimonial-section .page-header::after{
@@ -541,7 +541,7 @@ padding: 5px;
 }
 .testimonial-section #test-slider .item p{
   font-size: 28px;
-  color: #5a5a5a;
+  color: #fff;
   line-height: 50px;
   margin-top: 40px;
   font-style: italic;
@@ -550,16 +550,17 @@ padding: 5px;
   font-size: 58px;
   font-weight: 700;
   margin: 20px 0px 10px;
+    color: #fff;
 }
 .testimonial-section #test-slider .item span{
   font-size: 34px;
   font-weight: 400;
-  color: #5a5a5a;
+  color: #fff;
   margin-bottom: 30px;
   display: block;
 }
 .testimonial-section .page-header h1, .testimonial-section .page-header span{
-
+    color: #fff;
 }
  /*
  11)Contact
@@ -629,7 +630,7 @@ margin-top: 15px;
  5) Purchase Now
  ----------------------------------------*/
 #purchase-now{
-    padding-top: 120px;
+
  }
 
 .purchase-now {

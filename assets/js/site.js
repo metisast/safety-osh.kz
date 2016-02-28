@@ -9,13 +9,14 @@ if ($('#map').length) {
 	            map = new GMaps({
 	                div: '#map',
 	                scrollwheel: false,
-	                lat: -37.812802,
-	                lng: 144.956981,
+	                lat: 51.1714308,
+	                lng: 71.4183415,
 	            });
 	            map.addMarker({
-	                lat: -37.812802,
-	                lng: 144.956981,
-	                title: 'Envato HeadQuarter',
+	                lat: 51.172219,
+	                lng: 71.418580,
+	                title: 'Центр охраны труда и промышленной безопасности',
+                    zoom: 17
 	            });
 
 
